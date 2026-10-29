@@ -12,7 +12,7 @@
 .env-badge {
   margin-top: 1.5rem;
   padding: 1rem;
-  background-color: #2e7d32; /* Verde para Producción */
+  background-color: #0288d1; /* Azul para UAT */
   color: white;
   font-weight: bold;
   border-radius: 6px;
