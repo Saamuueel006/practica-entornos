@@ -1,0 +1,20 @@
+.card {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+  max-width: 500px;
+  margin: 3rem auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.env-badge {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background-color: #2e7d32; /* Verde para Producción */
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  font-size: 1.2rem;
+}
